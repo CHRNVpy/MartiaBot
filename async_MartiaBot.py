@@ -5,8 +5,8 @@ import logging
 
 from aiogram import Bot, Dispatcher, executor, types
 
-TOKEN = '5825101258:AAFw08sUikVMv03WheYO8A9Tme6mxlVWf-I'
-BOT_NAME = 'CHRNV_Martia_Bot'
+TOKEN = ''
+BOT_NAME = ''
 
 logging.basicConfig(level=logging.INFO)
 
